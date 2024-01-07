@@ -1,0 +1,52 @@
+ /* div{
+    height: 100px;
+    background-color: bisque;
+    width: 100px;
+    border-width: 2px;
+border-style: solid;
+border-color: yellow;
+border-radius: 5%;
+padding-left: 20px;
+
+} */
+
+/* h1{
+    height: 200px;
+    width:200px ;
+    background-color: blue;
+    border-width: 2px;
+border-style: solid;
+}  */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border-radius: 50%;
+} */
+
+*{
+    padding: 0%;
+    margin:0%;
+    color: white;
+    
+}
+
+#navbar{
+    height: 100px;
+    background-color: black;
+    
+}
+
+button{
+    background: yellow;
+}
+
+Logo{
+    color: yellow;
+}
+
+a{
+    margin-right: 100px;
+    text-decoration: none;
+}

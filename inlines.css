@@ -1,0 +1,80 @@
+/* div{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    margin: 5%;
+    padding: 5%;
+    display: inline-block;
+    
+} */
+
+/* button{
+    background-color: white;
+} */
+
+/* .contentbox{
+    height: 100px;
+    width: 100px;
+}
+
+*{
+    padding: 0%;
+    margin:0%;
+    color: white;
+    
+}
+
+#navbar{
+    height: 100px;
+    background-color: black;
+    
+}
+
+button{
+    background: yellow;
+}
+
+Logo{
+    color: yellow;
+}
+
+a{
+    margin-right: 100px;
+    text-decoration: none;
+} */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+body{
+   
+    background-image: url(clark-tibbs-oqStl2L5oxI-unsplash.jpg);
+background-size: cover;
+}
+
+#box2{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#box4{
+    position: fixed;
+    top: 0px;
+} */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(robert-arnar-dp4vfa3FdwQ-unsplash.jpg);
+    background-size: cover;
+    color: white;
+    position: fixed;
+right: 0px;
+}

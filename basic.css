@@ -1,0 +1,57 @@
+/* h1 {
+    color: rgb(43, 214, 226);
+}
+
+p {
+    color: brown;
+   
+}
+button {
+    color: blue;
+    background-color:white;
+}
+
+body{
+    background-color: grey
+    ;
+} */
+
+*{
+    color:black;
+}
+
+h1{
+    color: black;
+}
+
+
+
+.myclass{
+    color: pink;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    text-align: center;
+}
+
+#One{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+
+#Two{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+
+}
+
+
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
